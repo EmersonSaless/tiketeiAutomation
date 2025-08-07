@@ -1,0 +1,40 @@
+# Node modules
+node_modules/
+
+# Cypress videos and screenshots
+cypress/videos/
+cypress/screenshots/
+
+# Cypress config cache
+.cypress_cache/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+.env.*.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDEs / Editors
+.vscode/
+.idea/
+
+# Optional: coverage tools (caso use testes de cobertura)
+coverage/
+nyc_output/
+
+# Optional: report outputs (ex: mochawesome, allure, etc.)
+mochawesome-report/
+allure-results/
